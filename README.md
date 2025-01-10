@@ -8,3 +8,4 @@
     + `efficiency_feature`：FRET效率特征文件
     + `phenotypic_feature`：表型特征文件
     + `S_value`：利用特征定义函数计算的S值
+    + `E_value`：利用特征定义函数计算的E值
