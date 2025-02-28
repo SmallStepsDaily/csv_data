@@ -1,0 +1,4 @@
+PC9 文件夹
+细胞系：PC9
+EGFR靶向药物：afa、alm、dac、gef、osi
+化疗药物：vin
