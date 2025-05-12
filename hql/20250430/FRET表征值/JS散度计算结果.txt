@@ -1,0 +1,3 @@
+control vs 2.0h-Dac: JS散度 = 0.5391
+control vs 2.0h-Gef: JS散度 = 0.1580
+control vs 2.0h-Osi: JS散度 = 0.5776
