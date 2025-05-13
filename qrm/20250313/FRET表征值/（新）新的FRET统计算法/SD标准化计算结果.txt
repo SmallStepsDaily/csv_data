@@ -1,0 +1,6 @@
+4.0h-control vs 4.0h-afa: SD值 = 0.6187
+4.0h-control vs 4.0h-alm: SD值 = 0.8030
+4.0h-control vs 4.0h-dac: SD值 = 0.8684
+4.0h-control vs 4.0h-gef: SD值 = 0.7697
+4.0h-control vs 4.0h-osi: SD值 = 0.5984
+4.0h-control vs 4.0h-vin: SD值 = 0.6390
