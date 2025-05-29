@@ -1,0 +1,6 @@
+2.0h-control vs 2.0h-A133: SD值 = 0.0351
+2.0h-control vs 2.0h-A199: SD值 = 0.7016
+4.0h-control vs 4.0h-A133: SD值 = 0.2630
+4.0h-control vs 4.0h-A199: SD值 = 0.7719
+6.0h-control vs 6.0h-A133: SD值 = 0.2349
+6.0h-control vs 6.0h-A199: SD值 = 1.1345

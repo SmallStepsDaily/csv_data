@@ -1,0 +1,2 @@
+4h-control vs 4h-A133: SD值 = 2.2582
+6h-control vs 6h-A199: SD值 = 1.9583
