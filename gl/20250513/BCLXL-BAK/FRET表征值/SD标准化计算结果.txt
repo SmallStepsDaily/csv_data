@@ -1,6 +1,0 @@
-2.0h-control vs 2.0h-A133-80.0μm: SD值 = 0.3198
-2.0h-control vs 2.0h-A133-40.0μm: SD值 = 0.9726
-4.0h-control vs 4.0h-A133-80.0μm: SD值 = 0.6582
-4.0h-control vs 4.0h-A133-40.0μm: SD值 = 0.4060
-6.0h-control vs 6.0h-A133-80.0μm: SD值 = 0.5431
-6.0h-control vs 6.0h-A133-40.0μm: SD值 = 0.4443
