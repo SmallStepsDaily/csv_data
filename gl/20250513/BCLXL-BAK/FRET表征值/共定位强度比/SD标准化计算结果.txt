@@ -1,6 +1,6 @@
-2.0h-control vs A133_2.0h_80.0um: SD值 = 0.2285
-2.0h-control vs A133_2.0h_40.0um: SD值 = 0.2614
-4.0h-control vs A133_4.0h_80.0um: SD值 = 0.2225
-4.0h-control vs A133_4.0h_40.0um: SD值 = 0.4878
-6.0h-control vs A133_6.0h_80.0um: SD值 = 0.4230
-6.0h-control vs A133_6.0h_40.0um: SD值 = 0.5386
+2.0h-control vs A133_2.0h_80.0um: SD值 = 0.0872
+2.0h-control vs A133_2.0h_40.0um: SD值 = 0.2035
+4.0h-control vs A133_4.0h_80.0um: SD值 = 0.0501
+4.0h-control vs A133_4.0h_40.0um: SD值 = 0.4076
+6.0h-control vs A133_6.0h_80.0um: SD值 = 0.3746
+6.0h-control vs A133_6.0h_40.0um: SD值 = 0.4569
