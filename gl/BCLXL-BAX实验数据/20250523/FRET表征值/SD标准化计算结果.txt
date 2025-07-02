@@ -1,0 +1,6 @@
+2.0h-control vs A199_2.0h_90.0um: SD值 = 0.9532
+2.0h-control vs A199_2.0h_40.0um: SD值 = 1.8062
+4.0h-control vs A199_4.0h_90.0um: SD值 = 1.4783
+4.0h-control vs A199_4.0h_40.0um: SD值 = 1.9097
+6.0h-control vs A199_6.0h_90.0um: SD值 = 1.5018
+6.0h-control vs A199_6.0h_40.0um: SD值 = 2.1963

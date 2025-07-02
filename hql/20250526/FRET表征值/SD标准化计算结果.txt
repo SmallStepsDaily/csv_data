@@ -1,5 +1,5 @@
-2.0h-control vs Afa_2.0h_22.0um: SD值 = 0.4392
-2.0h-control vs Dac_2.0h_7.0um: SD值 = 0.1919
-2.0h-control vs Gef_2.0h_50.0um: SD值 = 0.0180
-2.0h-control vs Osi_2.0h_4.0um: SD值 = 0.4441
-2.0h-control vs Vin_2.0h_70.0um: SD值 = 0.3097
+2.0h-control vs Afa_2.0h_22.0um: SD值 = 1.8301
+2.0h-control vs Dac_2.0h_7.0um: SD值 = 1.7506
+2.0h-control vs Gef_2.0h_50.0um: SD值 = 0.2326
+2.0h-control vs Osi_2.0h_4.0um: SD值 = 1.9171
+2.0h-control vs Vin_2.0h_70.0um: SD值 = 1.6710

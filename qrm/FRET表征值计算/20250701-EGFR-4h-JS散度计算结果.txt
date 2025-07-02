@@ -1,0 +1,6 @@
+control vs 4h-gef: JS散度 = 0.2031
+control vs 4h-afa: JS散度 = 0.4274
+control vs 4h-dac: JS散度 = 0.1519
+control vs 4h-osi: JS散度 = 0.2781
+control vs 4h-alm: JS散度 = 0.1648
+control vs 4h-vin: JS散度 = 0.5013

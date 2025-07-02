@@ -1,0 +1,6 @@
+control vs 8h-gef: JS散度 = 0.2170
+control vs 8h-afa: JS散度 = 0.4888
+control vs 8h-dac: JS散度 = 0.2870
+control vs 8h-osi: JS散度 = 0.3247
+control vs 8h-alm: JS散度 = 0.2911
+control vs 8h-vin: JS散度 = 0.2865
